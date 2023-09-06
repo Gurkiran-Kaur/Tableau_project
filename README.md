@@ -23,7 +23,7 @@ The main categorical features in the table are Effect, when and wildlife
 Categorical features were analysed  using appropriate numerical features 
 
 Tried identifying different trends, patterns and key insights in this dataset
-![image](https://github.com/Gurkiran-Kaur/Tableau_project/assets/127986666/7b48ab11-6c4d-4faf-ae74-29908aa9141a)
+
 
 
 ## Results
