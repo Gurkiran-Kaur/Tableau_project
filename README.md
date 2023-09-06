@@ -27,10 +27,30 @@ Tried identifying different trends, patterns and key insights in this dataset
 
 
 ## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+
 
 ## Challenges 
-(discuss challenges you faced in the project)
+Data inconsistency
+
+Inconsistent formats for location lead to mapping errors
+
+Complex data
+
+There were diverse features related to aircraft type, phase of flight  and damage effect which made task of clustering complex
+
+Outlier detection
+
+Ensuring that numerical data such as cost related variables are interpreted correctly
+
+Time was biggest challenge 
 
 ## Future Goals
-(what would you do if you had more time?)
+Explore in detail and practice Tableau 
+
+Implement clustering algorithms to identify strike clusters based on aircraft type, phase of flight and damage effect
+
+Probe dataset further and answer more questions related to cost analysis, relation between effect of damage and phase of flight etc
+
+Create a more comprehensive and interactive Dashboard
+
+
