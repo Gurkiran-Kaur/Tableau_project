@@ -27,6 +27,16 @@ Tried identifying different trends, patterns and key insights in this dataset
 
 
 ## Results
+Geospatial occurrences of the strikes were visualized and state of California was found to have highest number of strikes followed by Texas and Florida.
+If we compare to rest of the states, this number is too high. Reasons for this can be explored further so that appropriate actions can be taken
+
+Majority of strikes acroos the states was caused during the day probably because of more active wildlife. Also, from the seasonal analysis it was found that during summers, the number of strikes goes up and this has been the trend across all years.
+
+If we try to find which type of species group causes more strikes, then bird group is responsbile for most of them. Specfifically, Gulls, turns, citywakes group causes way more strikes than other birds.
+
+Number of strikes has been consistently increasing and forecasted to be at 4004 at 2017. Variables contributing to this can be explored and can help in tackling this problem and keep numbers down
+
+Tried identifying pattern in cost by origin state and explore further. The interesting point is though number of strikes is more in California, the cost is higher for New York. Need to explore further what variables are contributing to it e.g damage caused and check for outliers, missing values
 
 
 ## Challenges 
